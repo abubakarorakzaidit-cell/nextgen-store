@@ -17,7 +17,7 @@ const products = [
   {
     id: 1,
     name: "Classic Brown Peshawari Chappal",
-    price: 4500,
+    price: 2500,
     image1: "./assets/images/Chappal-1-1.jpeg",
     image2: "./assets/images/Chappal-1-1.jpeg",
     image3: "./assets/images/Chappal-1-1.jpeg",
@@ -26,7 +26,7 @@ const products = [
   {
     id: 2,
     name: "Classic Brown Peshawari Chappal",
-    price: 4500,
+    price: 2500,
     image1: "./assets/images/Chappal-2-1.jpeg",
     image2: "./assets/images/Chappal-2-1.jpeg",
     image3: "./assets/images/Chappal-2-1.jpeg",
@@ -35,7 +35,7 @@ const products = [
   {
     id: 3,
     name: "Classic Brown Peshawari Chappal",
-    price: 4500,
+    price: 2500,
     image1: "./assets/images/Chappal-3-1.jpeg",
     image2: "./assets/images/Chappal-3-1.jpeg",
     image3: "./assets/images/Chappal-3-1.jpeg",
@@ -44,7 +44,7 @@ const products = [
       {
     id: 4,
     name: "Classic Brown Peshawari Chappal",
-    price: 4500,
+    price: 2500,
     image1: "./assets/images/Chappal-4-1.jpeg",
     image2: "./assets/images/Chappal-4-1.jpeg",
     image3: "./assets/images/Chappal-4-1.jpeg",
@@ -53,7 +53,7 @@ const products = [
       {
     id: 5,
     name: "Classic Brown Peshawari Chappal",
-    price: 4500,
+    price: 2500,
     image1: "./assets/images/Chappal-5-1.jpeg",
     image2: "./assets/images/Chappal-5-1.jpeg",
     image3: "./assets/images/Chappal-5-1.jpeg",
