@@ -51,6 +51,15 @@ const products = [
     image4: "./assets/images/Chappal-5-1.jpeg",
   },
   {
+    id: 6,
+    name: "Brown Panjidar Chappal",
+    price: 2500,
+    image1: "./assets/images/Chappal-6-1.jpeg",
+    image2: "./assets/images/Chappal-6-1.jpeg",
+    image3: "./assets/images/Chappal-6-1.jpeg",
+    image4: "./assets/images/Chappal-6-1.jpeg",
+  },
+  {
     id: 7,
     name: "Black Panjidar Chappal",
     price: 2500,
