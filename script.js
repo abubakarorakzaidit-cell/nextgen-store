@@ -16,8 +16,8 @@ const WHATSAPP_NUMBER = "923339630737"; // international format, no + or leading
 const products = [
   {
     id: 1,
-    name: "Classic Brown Peshawari Chappal",
-    price: 2500,
+    name: "Brown Panjidar Chappal",
+    price: 2700,
     image1: "./assets/images/Chappal-1-1.jpeg",
     image2: "./assets/images/Chappal-1-2.jpeg",
     image3: "./assets/images/Chappal-1-1.jpeg",
@@ -25,8 +25,8 @@ const products = [
   },
   {
     id: 2,
-    name: "Classic Brown Peshawari Chappal",
-    price: 2500,
+    name: "Black Panjidar Chappal 1",
+    price: 2700,
     image1: "./assets/images/Chappal-2-1.jpeg",
     image2: "./assets/images/Chappal-2-2.jpeg",
     image3: "./assets/images/Chappal-2-1.jpeg",
@@ -34,7 +34,7 @@ const products = [
   },
   {
     id: 7,
-    name: "Classic Brown Peshawari Chappal",
+    name: "Black Panjidar Chappal 2",
     price: 2500,
     image1: "./assets/images/Chappal-7-1.jpeg",
     image2: "./assets/images/Chappal-7-2.jpeg",
@@ -43,7 +43,7 @@ const products = [
   },
   {
     id: 8,
-    name: "Classic Brown Peshawari Chappal",
+    name: "Gray Panjidar Chappal",
     price: 2500,
     image1: "./assets/images/Chappal-8-1.jpeg",
     image2: "./assets/images/Chappal-8-2.jpeg",
