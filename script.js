@@ -106,8 +106,8 @@ function renderProducts() {
       const images = [
         product.image1,
         product.image2,
-        product.image3,
-        product.image4,
+        // product.image3,
+        // product.image4,
       ];
 
       const thumbsHTML = images
