@@ -16,7 +16,7 @@ const WHATSAPP_NUMBER = "923339630737"; // international format, no + or leading
 const products = [
   {
     id: 1,
-    name: "Brown Panjidar Chappal",
+    name: "Brown Panjidar Chappal 1",
     price: 2700,
     image1: "./assets/images/Chappal-1-1.jpeg",
     image2: "./assets/images/Chappal-1-2.jpeg",
@@ -31,6 +31,24 @@ const products = [
     image2: "./assets/images/Chappal-2-2.jpeg",
     image3: "./assets/images/Chappal-2-1.jpeg",
     image4: "./assets/images/Chappal-2-1.jpeg",
+  },
+  {
+    id: 4,
+    name: "Black Panjidar Chappal 3",
+    price: 2700,
+    image1: "./assets/images/Chappal-4-1.jpeg",
+    image2: "./assets/images/Chappal-4-2.jpeg",
+    image3: "./assets/images/Chappal-4-1.jpeg",
+    image4: "./assets/images/Chappal-4-1.jpeg",
+  },
+  {
+    id: 5,
+    name: "Brown Panjidar Chappal 2",
+    price: 2700,
+    image1: "./assets/images/Chappal-5-1.jpeg",
+    image2: "./assets/images/Chappal-5-2.jpeg",
+    image3: "./assets/images/Chappal-5-1.jpeg",
+    image4: "./assets/images/Chappal-5-1.jpeg",
   },
   {
     id: 7,
@@ -50,7 +68,6 @@ const products = [
     image3: "./assets/images/Chappal-8-1.jpeg",
     image4: "./assets/images/Chappal-8-1.jpeg",
   },
-  
 ];
 
 /* ===================== FORMAT PRICE ===================== */
@@ -74,7 +91,7 @@ function renderProducts() {
   const grid = document.getElementById("productGrid");
   if (!grid) return;
 
-  const angles = ["Front", "Side", "Top", "Back"];
+  const angles = ["Image", "Image", "Image", "Image"];
   const cardsHTML = products
     .map((product) => {
       const images = [
