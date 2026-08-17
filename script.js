@@ -72,10 +72,10 @@ const products = [
     id: 7,
     name: "Handmaded Gray Chappal",
     price: 3000,
-    image1: "./assets/images/Chappal-6-1.jpeg",
-    image2: "./assets/images/Chappal-6-2.jpeg",
-    image3: "./assets/images/Chappal-6-3.jpeg",
-    image4: "./assets/images/Chappal-6-4.jpeg",
+    image1: "./assets/images/Chappal-7-1.jpeg",
+    image2: "./assets/images/Chappal-7-2.jpeg",
+    image3: "./assets/images/Chappal-7-3.jpeg",
+    image4: "./assets/images/Chappal-7-4.jpeg",
   },
 ];
 
