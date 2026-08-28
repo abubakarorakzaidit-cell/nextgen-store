@@ -41,42 +41,6 @@ const products = [
     image3: "./assets/images/Chappal-3-3.jpeg",
     image4: "./assets/images/Chappal-3-4.jpeg",
   },
-  {
-    id: 4,
-    name: "Black Panjidar Chappal",
-    price: 2500,
-    image1: "./assets/images/Chappal-4-1.jpeg",
-    image2: "./assets/images/Chappal-4-2.jpeg",
-    image3: "./assets/images/Chappal-4-3.jpeg",
-    image4: "./assets/images/Chappal-4-4.jpeg",
-  },
-  {
-    id: 5,
-    name: "Gray Panjidar Chappal",
-    price: 2500,
-    image1: "./assets/images/Chappal-5-1.jpeg",
-    image2: "./assets/images/Chappal-5-2.jpeg",
-    image3: "./assets/images/Chappal-5-3.jpeg",
-    image4: "./assets/images/Chappal-5-4.jpeg",
-  },
-  {
-    id: 6,
-    name: "Handmaded Red Chappal",
-    price: 3000,
-    image1: "./assets/images/Chappal-6-1.jpeg",
-    image2: "./assets/images/Chappal-6-2.jpeg",
-    image3: "./assets/images/Chappal-6-4.jpeg",
-    image4: "./assets/images/Chappal-6-4.jpeg",
-  },
-  {
-    id: 7,
-    name: "Handmaded Gray Chappal",
-    price: 3000,
-    image1: "./assets/images/Chappal-7-1.jpeg",
-    image2: "./assets/images/Chappal-7-2.jpeg",
-    image3: "./assets/images/Chappal-7-3.jpeg",
-    image4: "./assets/images/Chappal-7-4.jpeg",
-  },
 ];
 
 /* ===================== FORMAT PRICE ===================== */
