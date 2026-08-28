@@ -17,7 +17,7 @@ const products = [
   {
     id: 1,
     name: "Brown Panjidar Chappal",
-    price: 2700,
+    price: 3000,
     image1: "./assets/images/Chappal-1-1.jpeg",
     image2: "./assets/images/Chappal-1-2.jpeg",
     image3: "./assets/images/Chappal-1-3.jpeg",
@@ -26,7 +26,7 @@ const products = [
   {
     id: 2,
     name: "Black Panjidar Chappal",
-    price: 2700,
+    price: 3000,
     image1: "./assets/images/Chappal-2-1.jpeg",
     image2: "./assets/images/Chappal-2-2.jpeg",
     image3: "./assets/images/Chappal-2-3.jpeg",
@@ -35,7 +35,7 @@ const products = [
   {
     id: 3,
     name: "Black Panjidar Chappal",
-    price: 2700,
+    price: 3000,
     image1: "./assets/images/Chappal-3-1.jpeg",
     image2: "./assets/images/Chappal-3-2.jpeg",
     image3: "./assets/images/Chappal-3-3.jpeg",
