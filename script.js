@@ -7,7 +7,7 @@
 "use strict";
 
 /* ===================== CONFIG ===================== */
-const STORE_NAME = "Orakzai Store";
+const STORE_NAME = "Ms-Footwear-Store";
 const WHATSAPP_NUMBER = "923339630737"; // international format, no + or leading 0
 
 /* ===================== PRODUCT DATA ===================== */
